@@ -15,12 +15,12 @@ Build TinyTales-Website from the source and install dependencies:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Shahenda-Elshayal/Tinytales-Website.git
+   git clone https://github.com/Shahenda-Elshayal/Tinytales-ProductDetails.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd Tinytales-Website
+   cd Tinytales-ProductDetails
    ```
 
 3. **Install the dependencies:**
