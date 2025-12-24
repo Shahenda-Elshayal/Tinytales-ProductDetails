@@ -1,0 +1,14 @@
+[00:00:02.822] Server  LOG     ✓ Ready in 2.4s
+[00:00:15.234] Server  LOG     ○ Compiling / ...
+[00:04:46.314] Server  LOG     ✓ Compiled in 146ms
+[00:04:48.345] Server  LOG     ✓ Compiled in 119ms
+[00:04:48.944] Server  LOG     ✓ Compiled in 0ms
+[00:05:06.693] Server  LOG     ✓ Compiled in 117ms
+[00:05:15.647] Server  ERROR   ⨯ ReferenceError: AuthProvider is not defined
+[00:05:15.750] Server  ERROR   ⨯ ReferenceError: AuthProvider is not defined
+[00:05:15.793] Server  ERROR   ⨯ ReferenceError: AuthProvider is not defined
+[00:05:16.270] Browser ERROR   uncaughtError: ReferenceError: AuthProvider is not defined
+[00:10:56.088] Server  LOG     ✓ Compiled in 51ms
+[00:10:57.254] Server  LOG     ✓ Compiled in 49ms
+[00:10:58.792] Server  LOG     ✓ Compiled in 52ms
+[00:11:38.535] Server  LOG     ✓ Compiled in 28ms
