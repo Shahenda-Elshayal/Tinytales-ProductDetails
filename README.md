@@ -1,4 +1,4 @@
-# TINYTALES-Product Details
+# Product Details
 
 ## Getting Started
 
