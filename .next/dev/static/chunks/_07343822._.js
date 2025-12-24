@@ -1065,7 +1065,7 @@ function ProductImageGallery({ images = [] }) {
                 className: "relative bg-[#F5F5F5] lg:h-[565px] h-[381px] rounded-[24px] overflow-hidden mb-4",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "absolute top-0 left-0 right-0 w-full h-[73px] z-20 flex items-center justify-center gap-2",
+                        className: "absolute top-0 left-0 right-0 w-full lg:h-[73px] h-[49px] z-20 flex items-center justify-center gap-2",
                         style: {
                             background: 'linear-gradient(0deg, rgba(244, 244, 244, 0.2) 0%, rgba(0, 0, 0, 0.3) 100%)'
                         },

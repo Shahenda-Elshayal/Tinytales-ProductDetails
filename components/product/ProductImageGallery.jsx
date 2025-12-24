@@ -50,7 +50,7 @@ export default function ProductImageGallery({ images = [] }) {
         
         {/* Person Image Indicators at Top */}
         <div 
-          className="absolute top-0 left-0 right-0 w-full h-[73px] z-20 flex items-center justify-center gap-2"
+          className="absolute top-0 left-0 right-0 w-full lg:h-[73px] h-[49px] z-20 flex items-center justify-center gap-2"
           style={{ background: 'linear-gradient(0deg, rgba(244, 244, 244, 0.2) 0%, rgba(0, 0, 0, 0.3) 100%)' }}
         >
           {personImageVariations.map((image, index) => (
